@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}The Gate Synthesis Problem}{1}
+\contentsline {section}{\numberline {2}Solutions}{2}
+\contentsline {subsection}{\numberline {2.1}Naive Decoder}{2}
+\contentsline {subsection}{\numberline {2.2}Duplicate and Merge}{3}
+\contentsline {subsection}{\numberline {2.3}Codespace search}{5}
+\contentsline {section}{\numberline {3}Junk}{6}
